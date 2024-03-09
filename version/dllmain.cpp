@@ -89,7 +89,7 @@ DWORD WINAPI Payload(LPVOID lpParam)
         , {_XOR_("No Reloadd"), true}
         , {_XOR_("No Reloadd V2"), true}
         , {_XOR_("Max Resourcess"), false}
-        , {_XOR_("Add 5 Sampless"), true}
+        , {_XOR_("Add 5 Sampless"), false}
         , {_XOR_("No Recoill"), true}
         , {_XOR_("Inf Backpackk"), true}
         , {_XOR_("Inf Special Weaponn"), true}
@@ -97,7 +97,7 @@ DWORD WINAPI Payload(LPVOID lpParam)
         , {_XOR_("Instant Railgunn"), true}
         , {_XOR_("Show All Map Iconss"), true}
         , {_XOR_("No Stationary Turret Overheatt"), true}
-        , {_XOR_("No Backpack Shield Cooldownn"), true}
+        , {_XOR_("No Backpack Shield Cooldownn"), false}
         , {_XOR_("No JetPack Cooldownn"), true}
         , {_XOR_("All Stratagems in Loadoutt"), false}
         , {_XOR_("All Equipment in Armoryy"), false}
